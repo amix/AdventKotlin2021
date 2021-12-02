@@ -1,3 +1,3 @@
 My entries for https://adventofcode.com/ 
 
-The objestive is to learn Kotlin 😊
+The objective is to learn Kotlin 😊
